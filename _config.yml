@@ -1,15 +1,15 @@
 title: "Affiliates"
 email: matteo@pedani.it
 timezone: UTC
-baseurl: "/email"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
 disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+locale: it_IT
+lang: it_it
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -39,6 +39,14 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  matteo:
+    name: Matteo
+    display_name: Matteo Pedani
+    avatar: 'assets/images/matteo.png'
+    email: matteo@pedani.it
+    web: https://pedani.it
+    twitter: https://twitter.com/matteopedani
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social

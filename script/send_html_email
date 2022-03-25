@@ -1,0 +1,1 @@
+mail --append="Content-type: text/html" --return-address="matteo@pedani.it"  -s "Offerta sito ecommerce" matteo@pedani.it, chiara@pedani.it < index.html
